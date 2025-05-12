@@ -10,9 +10,8 @@
 ---
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/YOUR-LINK)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=for-the-badge)](mailto:youremail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)]((https://www.linkedin.com/in/naittik25/))
+[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=for-the-badge)](mailto:naitikpatel1205@gmail.com)
 
 ---
 
@@ -47,15 +46,15 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naitikmathukiya&show_icons=true&theme=transparent&hide_title=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naitikmathukiya&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=naittik25&show_icons=true&theme=transparent&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naittik25&layout=compact" />
 </p>
 
 ---
 
 ## 💡 Featured Projects
 
-### 🔹 [Task Manager System](https://github.com/yourusername/task-manager)
+### 🔹 [Task Manager System](https://github.com/Naittik25/Task-Manager-System)
 - React + Node.js + MongoDB
 - Project, Task CRUD, Role Permissions, Dashboard
 - Clean modular structure with reusable components
@@ -73,7 +72,7 @@
 
 ## 📚 My Learning Journey
 
-- 🔥 Currently learning: **AWS Cloud**, **Kubernetes**, **System Design**
+- 🔥 Currently learning: **AWS Cloud**, **System Design**
 - 📘 Courses completed: Full Stack Dev (MERN), Java + Spring Boot APIs
 - 📌 I enjoy contributing to open-source and participating in hackathons
 
@@ -81,8 +80,8 @@
 
 ## 📬 Contact Me
 
-- 📧 Email: youremail@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+- 📧 Email: naitikpatel1205@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/yourprofile]((https://www.linkedin.com/in/naittik25/))  
 - 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
 
 ---
