@@ -24,8 +24,8 @@
 ### 📊 GitHub Stats & Graphs
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naitikmathukiya&show_icons=true&theme=dracula" />
-  <img src="https://streak-stats.demolab.com?user=naitikmathukiya&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=naittik25&show_icons=true&theme=dracula" />
+  <img src="https://streak-stats.demolab.com?user=naittik25&theme=dark" />
 </p>
 
 ---
@@ -51,8 +51,8 @@
 ### 📬 Connect with Me
 
 <p align="center">
-  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:naitikpatel1205@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/naittik25/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white"/></a>
 </p>
 
