@@ -12,12 +12,12 @@
 ---
 
 ### 🚀 My Projects
-| Project | Description | Stack | Demo |
-|--------|-------------|-------|------|
-| **Task Manager System** | Full CRUD app with teams, tasks, logging | React, Node, MongoDB | [Live](#) |
-| **Cricket Scoring App** | Real-time score tracking + PDF reports | React, Spring Boot, MySQL | [GitHub](#) |
-| **Real Estate App** | Buyer/Seller marketplace w/o agents | Flutter, Firebase | [Live](#) |
-| **Translator (Layman Lang)** | Converts code to friendly English | Python, Yacc | [GitHub](#) |
+| Project | Description | Stack |
+|--------|-------------|-------|
+| **Task Manager System** | Full CRUD app with teams, tasks, logging | React, Node, MongoDB |
+| **Cricket Scoring App** | Real-time score tracking + PDF reports | React, Spring Boot, MySQL |
+| **Real Estate App** | Buyer/Seller marketplace w/o agents | Flutter, Firebase |
+| **Translator (Layman Lang)** | Converts code to friendly English | Python, Yacc |
 
 ---
 
@@ -53,7 +53,7 @@
 <p align="center">
   <a href="mailto:naitikpatel1205@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/naittik25/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+<!--   <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white"/></a> -->
 </p>
 
 ---
