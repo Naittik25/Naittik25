@@ -1,59 +1,76 @@
-<h1 align="center">Hi, I'm Naitik Mathukiya 👨‍💻</h1>
-<p align="center"><i>“Code is my craft — let’s build the future, line by line.”</i></p>
+
+<h1 align="center">👋 Hey there, I'm Naitik Mathukiya</h1>
+<p align="center"><i>“Building clean and scalable software that empowers people.”</i></p>
 
 ---
 
-### 🧭 About Me
-- 🎓 IT Student @ DDU | Former Diploma @ GTU
-- 🔭 Currently working on: **Task Manager System** | **Real Estate App w/o Brokers**
-- 🧠 Learning: System Design, Spring Security, React Redux Toolkit
-- 👨‍💻 Tech Stack: Java, React, Node.js, MongoDB, Spring Boot, Firebase
+## 🚀 About Me
+
+- 👨‍💻 Full-Stack Developer passionate about crafting real-world solutions.
+- 🎓 B.Tech in Information Technology @ DDU | Diploma @ GTU.
+- 🛠️ Working with Java, Spring Boot, React.js, Node.js, Firebase, MongoDB.
+- 🌱 Currently diving into: System Design, Spring Security, Redux Toolkit.
+- 💡 Created 20+ software projects with real-time features, PDF exports, task logs, etc.
 
 ---
 
-### 🚀 My Projects
-| Project | Description | Stack |
-|--------|-------------|-------|
-| **Task Manager System** | Full CRUD app with teams, tasks, logging | React, Node, MongoDB |
-| **Cricket Scoring App** | Real-time score tracking + PDF reports | React, Spring Boot, MySQL |
-| **Real Estate App** | Buyer/Seller marketplace w/o agents | Flutter, Firebase |
-| **Translator (Layman Lang)** | Converts code to friendly English | Python, Yacc |
+## 📦 Highlight Projects
+
+| Project | Description | Tech Stack | Demo |
+|--------|-------------|------------|------|
+| **Task Manager System** | End-to-end project/task management | React, Node, MongoDB | [Repo](#) |
+| **Cricket Scoring App** | Real-time match scoring + summary PDF | Spring Boot, React, MySQL | [Repo](#) |
+| **Real Estate App** | Property selling/buying without brokers | Flutter, Firebase | [Repo](#) |
+| **Layman Language Translator** | Converts source code to human-readable logic | Python, Yacc | [Repo](#) |
+| **E-Commerce Mobile App** | Mobile shopping with cart and auth | Dart, Firebase | [Repo](#) |
 
 ---
 
-### 📊 GitHub Stats & Graphs
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naittik25&show_icons=true&theme=dracula" />
-  <img src="https://streak-stats.demolab.com?user=naittik25&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=naitikmathukiya&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=naitikmathukiya&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naitikmathukiya&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### 🧠 Knowledge Graph
+## 🧠 Tech Stack
 
-🛠️ Languages: `Java`, `JavaScript`, `Dart`, `Python`  
-🌐 Frontend: `React`, `Flutter`, `HTML`, `CSS`, `Tailwind`  
-⚙️ Backend: `Spring Boot`, `Node.js`, `Express`  
-🗃️ DBs: `MongoDB`, `MySQL`, `Firebase Firestore`  
-🧪 Tools: `Postman`, `Git`, `VS Code`, `IntelliJ`, `Figma`
+**Languages:**  
+`Java`, `JavaScript`, `Dart`, `Python`, `SQL`
+
+**Frontend:**  
+`React.js`, `Flutter`, `HTML`, `CSS`, `TailwindCSS`
+
+**Backend:**  
+`Node.js`, `Spring Boot`, `Express.js`
+
+**Database & Auth:**  
+`MongoDB`, `MySQL`, `Firebase`, `JWT`, `OAuth`
+
+**Dev Tools:**  
+`Git`, `GitHub`, `VS Code`, `IntelliJ IDEA`, `Postman`, `Figma`
 
 ---
 
-### 📚 Highlights
-- 👥 Contributor: 3 Open Source Projects (React & Java-based)
-- 🏆 Hackathon Finalist: DDU CodeSprint 2024
-- 🛡️ 15+ full-stack projects with clean architecture and modular design
-- 📃 Resume & Portfolio: [View Here](https://your-portfolio-link.com)
+## 🏆 Achievements
+
+- 🚀 Built 15+ full-stack apps with live deployment.
+- 🛡️ Developed secure, role-based access control systems.
+- 📄 Integrated PDF/Excel/CSV generation in multiple apps.
+- 📊 Worked on dashboards with logging, filtering, and export features.
+- 🌐 Published frontend and backend on GitHub Pages, Vercel, and Firebase.
 
 ---
 
-### 📬 Connect with Me
+## 📫 Contact Me
 
 <p align="center">
-  <a href="mailto:naitikpatel1205@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/naittik25/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<!--   <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white"/></a> -->
+  <a href="mailto:naitik.mathukiya@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/naitik-mathukiya"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://naitikmathukiya.github.io"><img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=firefox&logoColor=white"/></a>
 </p>
 
 ---
