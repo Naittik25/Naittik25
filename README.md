@@ -77,8 +77,8 @@
 ## 📊 GitHub Stats (Real-Time)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naitikmathukiya&show_icons=true&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naitikmathukiya&layout=compact&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=naittik25&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naittik25&layout=compact&theme=default" />
 </p>
 
 ---
