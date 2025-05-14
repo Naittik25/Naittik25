@@ -16,22 +16,22 @@
 
 ## 📦 Highlight Projects
 
-| Project | Description | Tech Stack | Demo |
-|--------|-------------|------------|------|
-| **Task Manager System** | End-to-end project/task management | React, Node, MongoDB | [Repo](#) |
-| **Cricket Scoring App** | Real-time match scoring + summary PDF | Spring Boot, React, MySQL | [Repo](#) |
-| **Real Estate App** | Property selling/buying without brokers | Flutter, Firebase | [Repo](#) |
-| **Layman Language Translator** | Converts source code to human-readable logic | Python, Yacc | [Repo](#) |
-| **E-Commerce Mobile App** | Mobile shopping with cart and auth | Dart, Firebase | [Repo](#) |
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| **Task Manager System** | End-to-end project/task management | React, Node, MongoDB |
+| **Cricket Scoring App** | Real-time match scoring + summary PDF | Spring Boot, React, MySQL |
+| **Real Estate App** | Property selling/buying without brokers | Flutter, Firebase |
+| **Layman Language Translator** | Converts source code to human-readable logic | Python, Yacc |
+| **E-Commerce Mobile App** | Mobile shopping with cart and auth | Dart, Firebase |
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naitikmathukiya&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=naitikmathukiya&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naitikmathukiya&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=naittik25&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=naittik25&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naittik25&layout=compact&theme=tokyonight" />
 </p>
 
 ---
